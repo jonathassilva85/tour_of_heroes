@@ -1,6 +1,6 @@
 # Tour Of Heroes
 
-Projeto com CRUD de Heros feito em Ruby on Rails 6.1 no Padrão MVC.]
+Projeto com CRUD de Heros feito em Ruby on Rails 6.1 no Padrão MVC.
 
 Esse repositório faz parte do Curso de Ruby on Rails 6 como API.
 
