@@ -21,7 +21,7 @@ bundle install
 # instalar as dependências do Node.js
 yarn install
 
-# criar os namcps de dadps de development e test
+# criar os bancos de dados de development e test
 rails db:create
 
 # criar as tabelas
